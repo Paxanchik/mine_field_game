@@ -1,0 +1,12 @@
+D:\Project\mine_game\mine_game\bin\Debug\mine_game.exe.config
+D:\Project\mine_game\mine_game\bin\Debug\mine_game.exe
+D:\Project\mine_game\mine_game\bin\Debug\mine_game.pdb
+D:\Project\mine_game\mine_game\obj\Debug\mine_game.csproj.AssemblyReference.cache
+D:\Project\mine_game\mine_game\obj\Debug\mine_game.csproj.SuggestedBindingRedirects.cache
+D:\Project\mine_game\mine_game\obj\Debug\mine_game.Form1.resources
+D:\Project\mine_game\mine_game\obj\Debug\mine_game.PasswordDialog.resources
+D:\Project\mine_game\mine_game\obj\Debug\mine_game.Properties.Resources.resources
+D:\Project\mine_game\mine_game\obj\Debug\mine_game.csproj.GenerateResource.cache
+D:\Project\mine_game\mine_game\obj\Debug\mine_game.csproj.CoreCompileInputs.cache
+D:\Project\mine_game\mine_game\obj\Debug\mine_game.exe
+D:\Project\mine_game\mine_game\obj\Debug\mine_game.pdb
